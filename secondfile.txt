@@ -1,2 +1,2 @@
-hi 
-this is seccond git file to amend
+hi from kishore 
+this is seccond git file to stash save
