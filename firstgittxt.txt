@@ -1,0 +1,10 @@
+Hi!I pushing this file to remote now.
+
+this is my first git text file
+
+
+i have made some changes. verify!!
+
+lets see git diff!
+
+
